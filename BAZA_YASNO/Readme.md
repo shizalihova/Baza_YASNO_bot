@@ -35,3 +35,7 @@
 -  **GitHub:** [shizalihova](https://github.com/shizalihova)
 
 ---
+
+## Видео с демонстрацией работы бота
+![Работа бота](assets/work_bot.gif)
+![Работа программы](assets/program_work_demonstration.gif)
