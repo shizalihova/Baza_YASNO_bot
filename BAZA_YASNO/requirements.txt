@@ -1,0 +1,6 @@
+aiogram==3.0.0b7
+google-api-python-client==2.87.0
+oauth2client==4.1.3
+httplib2==0.21.0
+requests==2.31.0
+python-dotenv==1.0.0
